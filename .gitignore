@@ -67,6 +67,8 @@ crashlytics-build.properties
 # build_info
 [Aa]ssets/StreamingAssets/build_info*
 
+echo "Temp/*"
+
 
 # Ignore the auto-generated AOT compatibility dll.
 Assets/Plugins/Sirenix/Assemblies/AOT/*
